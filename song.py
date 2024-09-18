@@ -1,8 +1,13 @@
 def fortnight():
-    "I love you, it's ruining my life."
+    print("I love you, it's ruining my life.")
     
 def babe():
-    "How could you do this, Babe?"
+    print("How could you do this, Babe?")
+
+def loml():
+    print("You told me I'm the love of your life.")
+    
 
 fortnight()
 babe()
+loml()
